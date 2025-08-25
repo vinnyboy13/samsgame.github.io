@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+canvas {
+  display: block;
+  background-color: #539a46;
+}
+
+button {
+  position: absolute;
+  z-index: 2;
+}
+
+#runButton {
+  top: 5px;
+  left: 5px;
+}
+
+#VikingsHelmet {
+  width: 10px;
+}

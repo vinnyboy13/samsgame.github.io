@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "player1",
+    "status": 1,
+    "imageLocation": "/images/player1.png",
+    "color": "#4E2B81",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 2,
+    "name": "player2",
+    "status": 1,
+    "imageLocation": "/images/player2.png",
+    "color": "#A0D13F",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 3,
+    "name": "player3",
+    "status": 1,
+    "imageLocation": "/images/player3.png",
+    "color": "#F7C288",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 4,
+    "name": "player4",
+    "status": 1,
+    "imageLocation": "/images/player4.png",
+    "color": "#219A56",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 5,
+    "name": "player5",
+    "status": 1,
+    "imageLocation": "/images/player5.png",
+    "color": "#BD67EF",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 6,
+    "name": "player6",
+    "status": 1,
+    "imageLocation": "/images/player6.png",
+    "color": "#89F1C3",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 7,
+    "name": "player7",
+    "status": 1,
+    "imageLocation": "/images/player7.png",
+    "color": "#E43A40",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 8,
+    "name": "player8",
+    "status": 1,
+    "imageLocation": "/images/player8.png",
+    "color": "#60C5ED",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 9,
+    "name": "player9",
+    "status": 1,
+    "imageLocation": "/images/player9.png",
+    "color": "#D37B22",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 10,
+    "name": "player10",
+    "status": 1,
+    "imageLocation": "/images/player10.png",
+    "color": "#58019C",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  },
+  {
+    "id": 11,
+    "name": "player11",
+    "status": 1,
+    "imageLocation": "/images/player11.png",
+    "color": "#B6E92A",
+    "locationData": {
+      "radius": 50,
+      "xCoord": 0,
+      "yCoord": 0,
+      "deltaX": 2,
+      "deltaY": 2
+    }
+  }
+]
