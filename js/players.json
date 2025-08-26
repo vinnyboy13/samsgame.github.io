@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "player1",
+    "name": "Sam",
     "status": 1,
     "imageLocation": "/images/player1.png",
     "color": "#4E2B81",
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "name": "player2",
+    "name": "Alex",
     "status": 1,
     "imageLocation": "/images/player2.png",
     "color": "#A0D13F",
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "name": "player3",
+    "name": "Nic",
     "status": 1,
     "imageLocation": "/images/player3.png",
     "color": "#F7C288",
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "name": "player4",
+    "name": "Big Dave",
     "status": 1,
     "imageLocation": "/images/player4.png",
     "color": "#219A56",
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "name": "player5",
+    "name": "KJ",
     "status": 1,
     "imageLocation": "/images/player5.png",
     "color": "#BD67EF",
@@ -71,7 +71,7 @@
   },
   {
     "id": 6,
-    "name": "player6",
+    "name": "Devin",
     "status": 1,
     "imageLocation": "/images/player6.png",
     "color": "#89F1C3",
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "name": "player7",
+    "name": "Dylan",
     "status": 1,
     "imageLocation": "/images/player7.png",
     "color": "#E43A40",
@@ -99,7 +99,7 @@
   },
   {
     "id": 8,
-    "name": "player8",
+    "name": "Cliff",
     "status": 1,
     "imageLocation": "/images/player8.png",
     "color": "#60C5ED",
@@ -113,7 +113,7 @@
   },
   {
     "id": 9,
-    "name": "player9",
+    "name": "Todd",
     "status": 1,
     "imageLocation": "/images/player9.png",
     "color": "#D37B22",
@@ -127,24 +127,10 @@
   },
   {
     "id": 10,
-    "name": "player10",
+    "name": "Jason",
     "status": 1,
     "imageLocation": "/images/player10.png",
     "color": "#58019C",
-    "locationData": {
-      "radius": 50,
-      "xCoord": 0,
-      "yCoord": 0,
-      "deltaX": 2,
-      "deltaY": 2
-    }
-  },
-  {
-    "id": 11,
-    "name": "player11",
-    "status": 1,
-    "imageLocation": "/images/player11.png",
-    "color": "#B6E92A",
     "locationData": {
       "radius": 50,
       "xCoord": 0,
